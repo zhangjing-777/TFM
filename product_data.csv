@@ -1,0 +1,8 @@
+product_id,product_name,category,price,stock_quantity,rating
+1,Smartphone,Electronics,299.99,50,4.5
+2,Laptop,Electronics,899.99,30,4.7
+3,Coffee Maker,Home Appliances,49.99,100,4.3
+4,Blender,Home Appliances,24.99,75,4.1
+5,T-Shirt,Clothing,9.99,200,4.0
+6,Headphones,Electronics,19.99,150,4.4
+7,Sneakers,Clothing,59.99,60,4.2
