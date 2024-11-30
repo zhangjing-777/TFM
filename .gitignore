@@ -1,0 +1,33 @@
+my_report
+remain.py
+
+
+# big file
+*.log
+*.zip
+*.csv
+
+
+# Python Virtual Environment
+env/
+venv/
+.env/
+
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.dylib
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE Profiles
+.idea/
+.vscode/
+*.sublime-*
+
+# Other temporary files
+*.log
+*.tmp
